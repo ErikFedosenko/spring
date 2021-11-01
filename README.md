@@ -1,1 +1,1 @@
-This spring application works with accounts and makes transactions related to money transfers and payments.
+This spring application works with accounts and provides operations related to money transfers and payments.
